@@ -1,0 +1,1 @@
+Forward Branch Explain: A fast froward merge means that all changes on the other branch that you are merging from is saved onto your current branch. It just has one branch catch up with the other branch without any new commits.
